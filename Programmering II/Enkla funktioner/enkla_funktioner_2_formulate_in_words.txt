@@ -1,0 +1,5 @@
+remove(x, l): remove all occurences of x in l
+
+Jag måste gå igenom alla HJÄLP i listan l
+Om HJÄLP inte är x så lägger jag HJÄLP i en accumulator
+I slutet är accumulatorn hela listan l fast utan x så l kan sättas till accumulatorn
